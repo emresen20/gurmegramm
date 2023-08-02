@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241615244083",
+    "project_id": "gurmegram-83606",
+    "storage_bucket": "gurmegram-83606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241615244083:android:021fc0e3b42ab31ed2cc46",
+        "android_client_info": {
+          "package_name": "com.emreium.gurmegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241615244083-cpf1ijvp4lbfi1d7tg2ofr5ar5eucbaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emreium.gurmegram",
+            "certificate_hash": "70f1d4e8b5eed03763bb406efc40f01bd3eb95db"
+          }
+        },
+        {
+          "client_id": "241615244083-hsji8i5011g7ivv7m57p0jq94i15f3ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emreium.gurmegram",
+            "certificate_hash": "7aaec59235ae96d22303857b5be57e2488b4b6b3"
+          }
+        },
+        {
+          "client_id": "241615244083-9d193rlbant2shkm87b71iavtfnkcmji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWZVKcTonlpbFO9GuiHCkT7ynhBs-YD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241615244083-9d193rlbant2shkm87b71iavtfnkcmji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
