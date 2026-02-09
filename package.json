@@ -16,7 +16,7 @@
     "@react-native-google-signin/google-signin": "^10.0.1",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "^6.9.12",
-    "expo": "~48.0.9",
+    "expo": "~54.0.33",
     "expo-dev-client": "~2.2.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
